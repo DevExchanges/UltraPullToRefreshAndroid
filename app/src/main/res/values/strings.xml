@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">"Ultra Pull To Refresh"</string>
+    <string name="notice">Pull down to refresh</string>
+    <string name="location">Location</string>
+    <string name="country">City:</string>
+    <string name="temperature">Temperature:</string>
+    <string name="humidity">Humidity:</string>
+    <string name="pressure">Pressure:</string>
+    <string name="weather">Weather</string>
+
+    <!--Customizing pull to refresh layout header texts -->
+    <string name="cube_ptr_pull_down_to_refresh">Kéo xuống để làm mới</string>
+    <string name="cube_ptr_release_to_refresh">Thả để làm mới</string>
+    <string name="cube_ptr_refreshing">Đang cập nhật...</string>
+    <string name="cube_ptr_refresh_complete">Đã cập nhật!</string>
+    <string name="cube_ptr_pull_down">Kéo xuống</string>
+    <string name="cube_ptr_last_update">Cập nhật lần cuối:&#160;</string>
+    <string name="cube_ptr_seconds_ago">&#160;giây trước</string>
+    <string name="cube_ptr_minutes_ago">&#160;phút trước</string>
+    <string name="cube_ptr_hours_ago">&#160;giờ trước</string>
+</resources>
